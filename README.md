@@ -2,3 +2,9 @@ Typing stuffs can be done through voice.The project enables you type the documen
 
 Note:
 	I have used notepad file path in order to type in notepad.If you want to type in someother documents replace the file path of the document on which it has to be typed.
+
+Packages To Be installed
+	->Speech Recognition
+		->pip install SpeechRecognition
+	->PyAutoGUI
+		->pip install PyAutoGUI
